@@ -17,6 +17,10 @@ th {
 	background: #CCCCCC;
 }
 
+h1 {
+	background-color: yellow;
+	display: block;
+}
 
 
 thead th:first-child { /* selects the first th inside of the thead */
